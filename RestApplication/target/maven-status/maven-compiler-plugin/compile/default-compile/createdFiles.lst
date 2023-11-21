@@ -1,0 +1,9 @@
+com\ra\RestApplication.class
+com\ra\dto\Availability.class
+com\ra\dto\Inventory.class
+com\ra\dto\ProductAvailability.class
+com\ra\dto\ProductRequest.class
+com\ra\service\RestApplicationService.class
+com\ra\dto\Capacity.class
+com\ra\controller\RestApplicationController.class
+com\ra\dto\ProductResponse.class
